@@ -1,0 +1,6 @@
+C:\Users\Yeeyson\source\repos\RPA-Repositories\ReCaptcha\ReCaptcha\obj\Debug\net8.0\ReCaptcha.csproj.AssemblyReference.cache
+C:\Users\Yeeyson\source\repos\RPA-Repositories\ReCaptcha\ReCaptcha\obj\Debug\net8.0\ReCaptcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeeyson\source\repos\RPA-Repositories\ReCaptcha\ReCaptcha\obj\Debug\net8.0\ReCaptcha.AssemblyInfoInputs.cache
+C:\Users\Yeeyson\source\repos\RPA-Repositories\ReCaptcha\ReCaptcha\obj\Debug\net8.0\ReCaptcha.AssemblyInfo.cs
+C:\Users\Yeeyson\source\repos\RPA-Repositories\ReCaptcha\ReCaptcha\obj\Debug\net8.0\ReCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\Yeeyson\source\repos\RPA-Repositories\ReCaptcha\ReCaptcha\obj\Debug\net8.0\ReCaptcha.sourcelink.json

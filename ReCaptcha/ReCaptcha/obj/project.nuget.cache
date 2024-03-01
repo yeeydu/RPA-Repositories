@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "YglSUYKALUef1KXh7Ab+tJK5xLx3vW5eSYfz9B4dNc3w4Guui9L6J/nXZG0GxNg/Z4kDj1XBsmQbhpJ5qwnQsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yeeyson\\source\\repos\\RPA-Repositories\\ReCaptcha\\ReCaptcha\\ReCaptcha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\2captcha\\2.2.0\\2captcha.2.2.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\easy.automation\\1.0.0.12\\easy.automation.1.0.0.12.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\flurl.http\\2.4.2\\flurl.http.2.4.2.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\pdfbox\\1.1.1\\pdfbox.1.1.1.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\selenium.phantomjs.webdriver\\2.1.1\\selenium.phantomjs.webdriver.2.1.1.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\selenium.support\\3.8.0\\selenium.support.3.8.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\selenium.webdriver\\3.8.0\\selenium.webdriver.3.8.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\selenium.webdriver.chromedriver\\122.0.6261.9400\\selenium.webdriver.chromedriver.122.0.6261.9400.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\sikuli4net\\1.0.6\\sikuli4net.1.0.6.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Yeeyson\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Easy.Automation 1.0.0.12' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Easy.Automation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Pdfbox 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Pdfbox",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Sikuli4Net 1.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Sikuli4Net",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
